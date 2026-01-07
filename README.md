@@ -1,4 +1,4 @@
-<h1>Hi, I'm Jason, an <a href="linkedin.com/in/jason-ryer-780b3018">IT Professional</a>☺</h1>
+<h1>Hi, I'm Jason, an <a href="linkedin.com/in/jason-ryer-780b3018 ">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
